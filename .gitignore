@@ -5,16 +5,17 @@
 # 4. Save Scene and Project from File menu.
 # 5. Quit Unity and then you can delete the Library and Temp directory in the project directory. You can delete everything but keep the Assets and ProjectSettings directory.
 
-Builds/
-
 # =============== #
-# Unity generated #
+# Unity folders #
 # =============== #
-Temp/
-Obj/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+3rdParty/
 UnityGenerated/
 Library/
 Assets/AssetStoreTools*
+Builds/
 
 # ===================================== #
 # Visual Studio / MonoDevelop generated #
